@@ -75,6 +75,7 @@ class HomeScreen extends StatelessWidget {
                             fontSize: 34,
                             color: Colors.green),
                       ),
+
                       Row(
                         children: [
                           CustomIconStyle(
